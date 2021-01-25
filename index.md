@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 # Pranav's First CS193 Homework
+- CS193 is helping me set up my Github account. 
+- The course gives a lot of time to finish assignments. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -16,8 +18,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- CS193 is making me learn Github
-- There is a lot of time to submit homework assignments
+- Bulleted
+- List
 
 1. Numbered
 2. List
