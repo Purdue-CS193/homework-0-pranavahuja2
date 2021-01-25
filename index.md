@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 # Pranav's First CS193 Homework
 - CS193 is helping me set up my Github account. 
-- The course gives a lot of time to finish assignments. 
+- There is a lot of time to finish assignments. 
+- I can get help from the TA's and clarify my questions from PSO's and Piazza. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
